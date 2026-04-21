@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Materials Science & Engineering at Stanford University. My research focuses on the effect of ultrasonic stimulation on mechanosensitive ion channels. I am interested in molecular dynamic simulations and 2-photon fluorescence experiments. 
-Then write something substantial with this space…
+I am a PhD candidate in Materials Science & Engineering at Stanford University. My research focuses on the the effect of ultrasonic stimulation on mechanosensitive ion channels. I am interested in molecular dynamic simulations and 2-photon fluorescence experiments. 
+
 
 
 
