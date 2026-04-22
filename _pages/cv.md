@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Materials Science & Engineering, Stanford University, 2026 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Engineering, Swarthmore College, 2018
 
 Work experience
 ======
@@ -34,12 +33,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Molecular dynamics simulations: GROMACS, LAMMPS
+* Coding
+  * Python
+  * 
   * Sub-skill 2.3
-* Skill 3
+* Human embryonic kidney cell culture
+* 
 
 Publications
 ======
